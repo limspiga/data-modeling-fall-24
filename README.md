@@ -20,7 +20,7 @@ Análisis Utilizando Tipos de Datos Complejos: Sumérgete en el análisis de dat
 Al finalizar este curso, estarás equipado con las habilidades necesarias para abordar escenarios empresariales con confianza, utilizando técnicas avanzadas de SQL y un enfoque analítico profesional. ¡Prepárate para transformar los datos en conocimientos que impulsen el éxito de tu organización!
 
 ## Contenido temático
-1. [Introducción a python](https://quickref.me/python)
+1. [Introducción a python](python_cheatsheet.ipynb)
 2. [Entendiendo y Describiendo Datos](01_data_modeling_for_marketing.ipynb)
 3. [Fundamentos de SQL para análisis](02_data_modeling_for_marketing.ipynb)
 4. SQL para Preparación de Datos
