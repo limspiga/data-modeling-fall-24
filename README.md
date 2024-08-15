@@ -20,7 +20,7 @@ Análisis Utilizando Tipos de Datos Complejos: Sumérgete en el análisis de dat
 Al finalizar este curso, estarás equipado con las habilidades necesarias para abordar escenarios empresariales con confianza, utilizando técnicas avanzadas de SQL y un enfoque analítico profesional. ¡Prepárate para transformar los datos en conocimientos que impulsen el éxito de tu organización!
 
 ## Contenido temático
-1. Introuccion a python
+1. [Introducción a python](https://quickref.me/python)
 2. [Entendiendo y Describiendo Datos](01_data_modeling_for_marketing.ipynb)
 3. [Fundamentos de SQL para análisis](02_data_modeling_for_marketing.ipynb)
 4. SQL para Preparación de Datos
@@ -30,14 +30,14 @@ Al finalizar este curso, estarás equipado con las habilidades necesarias para a
 8. Análisis Utilizando Tipos de Datos Complejos
 
 ## Herramientas
-- Python 3
-- Postgresql/sqlite
-- [Colab] (https://colab.research.google.com)
+- [Colab](https://colab.research.google.com)
 - [Pandas](https://github.com/pandas-dev/pandas)
+- Postgresql/sqlite
+- Python 3
 
 ## Preparación del entorno
-- Entorno de COLAB. https://colab.research.google.com
-- Python cheatsheet. https://quickref.me/python
-- Github data-modeling.
+- [Entorno de COLAB](https://colab.research.google.com)
+- [Python cheatsheet](https://quickref.me/python)
+- [Github repo: data-modeling-fall-24](https://github.com/limspiga/data-modeling-fall-24)
 
 ¡Nos emociona acompañarte en este viaje de aprendizaje en el apasionante mundo del modelado de datos!
