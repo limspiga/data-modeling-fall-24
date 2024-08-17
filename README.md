@@ -30,10 +30,10 @@ Al finalizar este curso, estarás equipado con las habilidades necesarias para a
 8. Análisis Utilizando Tipos de Datos Complejos
 
 ## Herramientas
-- Google [Colab](https://colab.research.google.com)
-- [Pandas](https://github.com/pandas-dev/pandas)
-- Postgresql DB
-- Python
+- Plataforma: Google [Colab](https://colab.research.google.com) [requiere cuanta gmail](gmail.com)
+- Framework: [Pandas](https://github.com/pandas-dev/pandas)
+- DB: [Postgresql](https://www.postgresql.org/)
+- Language programing: [Python](https://www.python.org)
 
 ## Preparación del entorno
 - [Entorno de COLAB](https://colab.research.google.com)
