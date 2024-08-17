@@ -40,4 +40,6 @@ Al finalizar este curso, estarás equipado con las habilidades necesarias para a
 - [Python cheatsheet](https://quickref.me/python)
 - [Github repo: data-modeling-fall-24](https://github.com/limspiga/data-modeling-fall-24)
 
+[Guía de aprendizaje PDF](data_modeling_fall_24.pdf)
+
 ¡Nos emociona acompañarte en este viaje de aprendizaje en el apasionante mundo del modelado de datos!
