@@ -26,7 +26,7 @@ Al finalizar este curso, estarás equipado con las habilidades necesarias para a
 4. [SQL para Preparación de Datos](03_data_modeling_for_marketing.ipynb)
 5. [Funciones de Agregación para Análisis de Datos](04_data_modeling_for_marketing.ipynb)
 6. [Funciones de Ventana para Análisis de Datos](05_data_modeling_for_marketing.ipynb)
-7. Importación y Exportación de Datos
+7. [Importación y Exportación de Datos](05_data_modeling_for_marketing.ipynb)
 8. Análisis Utilizando Tipos de Datos Complejos
 
 ## Herramientas
